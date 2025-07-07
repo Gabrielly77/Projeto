@@ -34,8 +34,8 @@ body {
 }
 
 .text {
-  background-color:black;        /* Fundo branco */
-  border: 2px solid #e2e2e2;     /* Borda cinzinha */
+  background-color:black;        
+  border: 2px solid #e2e2e2;     
   border-radius: 12px;           /* Cantinhos arredondados */
   padding: 20px;                 /* Espaço interno */
   box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Sombra leve */
